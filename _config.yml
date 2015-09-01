@@ -69,3 +69,6 @@ theme: carbon
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type:
+
+#comments
+duoshuo_shortname: huchengjian
