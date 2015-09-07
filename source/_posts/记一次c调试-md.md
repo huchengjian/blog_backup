@@ -1,4 +1,4 @@
-title: 记一次c调试.md
+title: 记一次c调试
 date: 2015-09-07 11:59:12
 tags: dev algorithm
 ---
