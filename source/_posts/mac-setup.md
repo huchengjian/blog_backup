@@ -11,14 +11,14 @@ Apple在成立之初叫做`Apple Computer, Inc. `，从07年发布第一台iPhon
 
 今天咱们就来扒一扒Mac上一些好用的setup和一些app。不定期更新中。
 
-### 文本编辑
+## **文本编辑**
 **sublime**
 无论Mac&还是windows首选的存文本编辑器绝对是sublime。快速的启动速度，各种语言的语法支持，丰富的设置（文本方式的设置），丰富的第三方插件（好吧，我基本没用插件）。
 
 **maxiang+evernote**
 evernote没有内建的markdown支持，maxiang没有云端的同步。于是这两个工具便结合在一起了。
 
-### 工具插件类
+## **工具插件类**
 **Jumpcut**
 记录最近的文本复制记录，最多50个吧。
 
@@ -31,7 +31,7 @@ evernote没有内建的markdown支持，maxiang没有云端的同步。于是这
 **Eudic**
 mac内建的force touch查词很多软件不支持。使用Eudic，配合上菜单栏的快捷键，可以实现任何界面全局的查词了。
 
-### tips
+## **tips**
 * 按住alt，在按菜单栏wifi按钮，可以直接显示当前网络详情和ip地址。系统其他地方还有很多按住alt在点击的彩蛋，期待大家发现。
 * 按住cmd+shift+app最小化按钮，会发现世界都慢下来了。
 
