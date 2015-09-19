@@ -10,25 +10,25 @@ tags: school enrollment
 ```java
 public int findMinMiss(int[] a, int n) {
 
-		if (n==0) {
-			return 1;
-		}
+	if (n==0) {
+		return 1;
+	}
 
-		for(int i = 0;i<n;i++){
-			while(a[i]>0 && a[i]<=n && a[i] != i+1&&a[i]!=a[a[i]-1]){
-				int temp = a[a[i]-1];;
-				a[a[i]-1] = a[i];
-				a[i] = temp;
-			}
+	for(int i = 0;i<n;i++){
+		while(a[i]>0 && a[i]<=n && a[i] != i+1&&a[i]!=a[a[i]-1]){
+			int temp = a[a[i]-1];;
+			a[a[i]-1] = a[i];
+			a[i] = temp;
 		}
+	}
 
-		int i = 0;
-		for ( ;i < a.length; i++) {
-			if (a[i]!=i+1) {
-				break;
-			}
+	int i = 0;
+	for ( ;i < a.length; i++) {
+		if (a[i]!=i+1) {
+			break;
 		}
-		return i+1;
+	}
+	return i+1;
 
 }
 ```
